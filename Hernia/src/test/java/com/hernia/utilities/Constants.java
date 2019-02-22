@@ -10,6 +10,7 @@ import com.hernia.GeneralPagesModule.pages.CreateNewPlaintiff_Page;
 import com.hernia.GeneralPagesModule.pages.DocumentExchanges_Page;
 import com.hernia.GeneralPagesModule.pages.ECF_Page;
 import com.hernia.GeneralPagesModule.pages.General_Page;
+import com.hernia.GeneralPagesModule.pages.HelpDocuments_Page;
 import com.hernia.GeneralPagesModule.pages.LogIn_Page;
 import com.hernia.GeneralPagesModule.pages.PlaintiffProfile_Page;
 import com.hernia.GeneralPagesModule.pages.ReviewBlueprint_Page;
@@ -58,6 +59,7 @@ public class Constants extends Credentials{
 	public static final ReviewBlueprint_Page reviewBlueprintPage = new ReviewBlueprint_Page();
 	public static final BlueprintDetails_Page blueprintDetailsPage = new BlueprintDetails_Page();
 	public static final ECF_Page ecfPage = new ECF_Page();
+	public static final HelpDocuments_Page helpDocumentsPage = new HelpDocuments_Page();
 	
 	// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
